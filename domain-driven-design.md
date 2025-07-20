@@ -154,6 +154,10 @@ Subsequently, DDD is going to help you **investigate and know your domain and al
 * [https://github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
 * [https://github.com/marcusolsson/goddd](https://github.com/marcusolsson/goddd)
 
+### PHP
+
+* [https://github.com/sergioalmela/symfony-ddd-ecommerce-microservices](https://github.com/sergioalmela/symfony-ddd-ecommerce-microservices)
+
 ## Frameworks
 
 \(Actually "framework" is not important\)
